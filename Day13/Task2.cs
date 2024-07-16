@@ -9,54 +9,51 @@ the main thread should wait for all runner threads to finish before announcing t
 using System;
 using System.Threading;
 class Task2{
-    static void Run(runner1){
-        string name = runner1;
-        Console.WriteLine(name+" started running.");
+    static void Run1(){
+        Console.WriteLine("Runner1 started running.");
         for (int lap = 1; lap <= 5; lap++){
-            Console.WriteLine(name+" completed lap"+ lap);
+            Console.WriteLine("Runner1 completed lap"+ lap);
             Thread.Sleep(1000);
             if (lap < 5){
-                Console.WriteLine(name+" taking a short break.");
+                Console.WriteLine("Runner1 taking a short break.");
                 Thread.Sleep(3000);
             }
         }
-        Console.WriteLine(name+" finished running.");
+        Console.WriteLine("Runner1 finished running.");
     }
 
-    static void Run(runner2){
-        string name = runner2;
-        Console.WriteLine(name+" started running.");
+    static void Run2(){
+        Console.WriteLine("Runner2 started running.");
         for (int lap = 1; lap <= 5; lap++){
-            Console.WriteLine(name+" completed lap"+ lap);
+            Console.WriteLine("Runner2 completed lap"+ lap);
             Thread.Sleep(1000);
             if (lap < 5){
-                Console.WriteLine(name+" taking a short break.");
+                Console.WriteLine("Runner2 taking a short break.");
                 Thread.Sleep(1000);
             }
         }
-        Console.WriteLine(name+" finished running.");
+        Console.WriteLine("Runner2 finished running.");
     }
 
-    static void Run(runner3){
-        string name = runner3;
-        Console.WriteLine(name+" started running.");
+    static void Run3(){
+        Console.WriteLine("Runner3 started running.");
         for (int lap = 1; lap <= 5; lap++){
-            Console.WriteLine(name+" completed lap"+ lap);
+            Console.WriteLine("Runner3 completed lap"+ lap);
             Thread.Sleep(1000);
             if (lap < 5){
-                Console.WriteLine(name+" taking a short break.");
+                Console.WriteLine("Runner3 taking a short break.");
                 Thread.Sleep(4000);
             }
         }
-        Console.WriteLine(name+" finished running.");
+        Console.WriteLine("Runner3 finished running.");
     }
     static void Main(){
-        Thread runner1 = new Thread(Runner1);
-        Thread runner2 = new Thread(Runner2);
-        Thread runner3 = new Thread(Runner3);
-        runner1.Start("Runner 1");
-        runner2.Start("Runner 2");
-        runner3.Start("Runner 3");
+        Thread runner1 = new Thread(new ThreadStart(Run1));
+        Thread runner2 = new Thread(new ThreadStart(Run2));
+        Thread runner3 = new Thread(new ThreadStart(Run3));
+        runner1.Start();
+        runner2.Start();
+        runner3.Start();
         runner1.Join();
         runner2.Join();
         runner3.Join();
