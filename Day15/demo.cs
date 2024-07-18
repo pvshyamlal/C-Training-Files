@@ -20,7 +20,11 @@ class Animal{
         Thread t2 = new Thread(() => Cat(3));
         t1.Start();
         t2.Start();
+        Console.WriteLine("Thread 1 is Alive: "+t1.IsAlive);
+        Console.WriteLine("Thread 2 is Alive: "+t2.IsAlive);
         t1.Join();
         t2.Join();
+        Console.WriteLine("Thread 1 is Alive: "+t1.IsAlive);
+        Console.WriteLine("Thread 2 is Alive: "+t2.IsAlive);
     }
 }
