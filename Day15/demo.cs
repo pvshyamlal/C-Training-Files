@@ -1,30 +1,13 @@
 using System;
-using System.Threading;
-class Animal{
-    static void Dog(int n){
-        for (int i=0;i<n;i++){
-            Console.WriteLine("Dog is running lap"+i);
-            Console.WriteLine("Dog is Sleeping");
-        }
-        Console.WriteLine("Dog Finished Running");
-    }
-    static void Cat(int n){
-        for (int i=0;i<n;i++){
-            Console.WriteLine("Cat is running lap"+i);
-            Console.WriteLine("Cat is Sleeping");
-        }
-        Console.WriteLine("Cat Finished Running");
-    }
-    static void Main(){
-        Thread t1 = new Thread(() => Dog(5));
-        Thread t2 = new Thread(() => Cat(3));
-        t1.Start();
-        t2.Start();
-        Console.WriteLine("Thread 1 is Alive: "+t1.IsAlive);
-        Console.WriteLine("Thread 2 is Alive: "+t2.IsAlive);
-        t1.Join();
-        t2.Join();
-        Console.WriteLine("Thread 1 is Alive: "+t1.IsAlive);
-        Console.WriteLine("Thread 2 is Alive: "+t2.IsAlive);
+using System.Collections.ObjectModel;
+class demo{
+    public static void Main(string[] args){
+        Collection<string> mycall = new Collection<string>();
+        mycall.Add("Hello");
+        mycall.Add("Hi:");
+        mycall.Add("Hey");
+        string[] s1 = new string[mycall.Count];
+        mycall.CopyTo(s1,0); // s1 = {"Hello", "Hi:", "Hey"}
+        Console.WriteLine(s1[0]);
     }
 }
