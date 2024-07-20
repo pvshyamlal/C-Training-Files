@@ -1,14 +1,13 @@
 using System;
-using System.Collections;
 
-class C1{
-    public static void Main(string[] args){
-         var arr1 = new ArrayList();
-         var arr2 = new ArrayList(){
-            1,2,3,4,"hai",null
-         };
-         ArrayList l1 = new ArrayList();
-         ArrayList<int> 1 = new ArrayList<int>();
+class Demo{
+    public delegate int show(int a, int b, int c);
+    public static int display(int a, int b, int c){
+        return (a+b+c);
     }
-         
+    static void Main(string[] args){
+        show obj = display;
+        Console.WriteLine(obj(10,20,30));
+    }
+        
 }
