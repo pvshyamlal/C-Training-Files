@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Github\\C-Training-Files\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\models\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\views\\home\\createeditexpenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\createeditexpenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +15,24 @@
       "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\views\\home\\createeditexpenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\createeditexpenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\models\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|d:\\github\\c-training-files\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{889446D6-659C-4BAE-BF84-7BA37A08DF5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SpendSmartDbContext.cs",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Models\\SpendSmartDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\SpendSmartDbContext.cs",
@@ -55,51 +55,63 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T08:35:45.046Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CreateEditExpenses.cshtml",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Views\\Home\\CreateEditExpenses.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\CreateEditExpenses.cshtml",
               "ToolTip": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Views\\Home\\CreateEditExpenses.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\CreateEditExpenses.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-24T05:09:50.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Expenses.cs",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Models\\Expenses.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Expenses.cs",
               "ToolTip": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Models\\Expenses.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Expenses.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T04:12:11.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Expenses.cshtml",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Views\\Home\\Expenses.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Expenses.cshtml",
               "ToolTip": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Views\\Home\\Expenses.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Expenses.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-24T04:22:06.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:29:24.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
@@ -112,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
@@ -124,28 +136,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowAIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T04:29:24.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "D:\\Github\\C-Training-Files\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T04:28:05.177Z"
+              "WhenOpened": "2024-07-24T04:28:05.177Z",
+              "EditorCaption": ""
             }
           ]
         }

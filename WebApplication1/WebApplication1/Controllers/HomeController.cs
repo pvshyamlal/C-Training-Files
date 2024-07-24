@@ -26,9 +26,35 @@ namespace WebApplication1.Controllers
             return View(allExpenses);
         }
 
-        public IActionResult CreateEditExpenses()
+        public IActionResult CreateEditExpenses(int id)
         {
+            if (id != null)
+            {
+                var expense = _context.Expenses.FirstOrDefault(Expenses => Expenses.Id == id);
+                return View(expense);
+            }
             return View();
+        }
+        public IActionResult DeleteExpense(int id)
+        {
+            var expensesInDB = _context.Expenses.FirstOrDefault(Expenses => Expenses.Id == id);
+            _context.Expenses.Remove(expensesInDB);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+        public IActionResult EditExpense(Expenses model)
+        {
+                if (model.Id == 0)
+                {
+                    _context.Expenses.Add(model);
+                }
+                else
+                {
+                    _context.Expenses.Update(model);
+
+                }
+                _context.SaveChanges();
+            return RedirectToAction("Expenses");
         }
 
         public IActionResult CreateEditExpensesForm(Expenses model)
