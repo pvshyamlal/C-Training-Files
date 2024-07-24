@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Expenses";
+}
+
+@model WebApplication1.Models.Expenses
+
+<div class="text-center">
+    <h1 class="display-4">Expenses for items</h1>
+</div>
+
+<form asp-controller="Home" asp-action="CreateEditExpensesForm">
+    <div class="form-group">
+        <label for="Id">Id</label>
+        <input class="form-control" type="number" id="Id" placeholder="0" asp-for="Id" />
+    </div>
+
+    <div class="form-group">
+        <label for="Value">Value $</label>
+        <input class="form-control" type="number" id="Value" placeholder="0" asp-for="Value" step="0.01" />
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <input class="form-control" type="text" id="Description" placeholder="Add a description" asp-for="Description" />
+    </div>
+
+    <button class="btn btn-primary mt-4" type="submit">Submit</button>
+</form>
