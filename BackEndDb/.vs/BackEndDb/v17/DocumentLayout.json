@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Github\\C-Training-Files\\BackEndDb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\model\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\model\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\model\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\model\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\model\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\model\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\model\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\migrations\\20240725053132_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\backenddb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\backenddb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|d:\\github\\c-training-files\\backenddb\\backenddb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F385C0-FFF5-467E-9B13-EE6207F747B3}|BackEndDb\\BackEndDb.csproj|solutionrelative:backenddb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,37 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddEmployeeDto.cs",
-              "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Model\\AddEmployeeDto.cs",
-              "RelativeDocumentMoniker": "BackEndDb\\Model\\AddEmployeeDto.cs",
-              "ToolTip": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Model\\AddEmployeeDto.cs",
-              "RelativeToolTip": "BackEndDb\\Model\\AddEmployeeDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T06:54:14.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "BackEndDb\\Controllers\\EmployeesController.cs",
-              "ToolTip": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "BackEndDb\\Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T06:23:01.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\appsettings.json",
               "RelativeDocumentMoniker": "BackEndDb\\appsettings.json",
@@ -106,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Model\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "BackEndDb\\Model\\Entities\\Employee.cs",
@@ -120,19 +94,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Model\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "BackEndDb\\Model\\AddEmployeeDto.cs",
+              "ToolTip": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Model\\AddEmployeeDto.cs",
+              "RelativeToolTip": "BackEndDb\\Model\\AddEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:54:14.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Program.cs",
               "RelativeDocumentMoniker": "BackEndDb\\Program.cs",
               "ToolTip": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Program.cs",
               "RelativeToolTip": "BackEndDb\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAEAAAAVAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T05:18:05.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "BackEndDb\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "BackEndDb\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:23:01.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Model\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "BackEndDb\\Model\\UpdateEmployeeDto.cs",
+              "ToolTip": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Model\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "BackEndDb\\Model\\UpdateEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:23:58.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20240725053132_initial migration.cs",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Migrations\\20240725053132_initial migration.cs",
               "RelativeDocumentMoniker": "BackEndDb\\Migrations\\20240725053132_initial migration.cs",
@@ -140,38 +153,23 @@
               "RelativeToolTip": "BackEndDb\\Migrations\\20240725053132_initial migration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T05:31:33.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T05:31:33.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BackEndDb",
+              "DocumentIndex": 8,
+              "Title": "BackEndDb.csproj",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\BackEndDb.csproj",
               "RelativeDocumentMoniker": "BackEndDb\\BackEndDb.csproj",
               "ToolTip": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\BackEndDb.csproj",
               "RelativeToolTip": "BackEndDb\\BackEndDb.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-25T04:31:11.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T04:31:11.437Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "BackEndDb\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "BackEndDb\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T04:23:12.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "BackEndDb.http",
               "DocumentMoniker": "D:\\Github\\C-Training-Files\\BackEndDb\\BackEndDb\\BackEndDb.http",
               "RelativeDocumentMoniker": "BackEndDb\\BackEndDb.http",
@@ -179,8 +177,7 @@
               "RelativeToolTip": "BackEndDb\\BackEndDb.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-25T04:22:08.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T04:22:08.251Z"
             }
           ]
         }
