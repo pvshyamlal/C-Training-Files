@@ -1,0 +1,14 @@
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\obj\Debug\net8.0\StudentGradesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\obj\Debug\net8.0\StudentGradesCalculator.AssemblyInfoInputs.cache
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\obj\Debug\net8.0\StudentGradesCalculator.AssemblyInfo.cs
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\obj\Debug\net8.0\StudentGradesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\bin\Debug\net8.0\StudentGradesCalculator.exe
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\bin\Debug\net8.0\StudentGradesCalculator.deps.json
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\bin\Debug\net8.0\StudentGradesCalculator.runtimeconfig.json
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\bin\Debug\net8.0\StudentGradesCalculator.dll
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\bin\Debug\net8.0\StudentGradesCalculator.pdb
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\obj\Debug\net8.0\StudentGradesCalculator.dll
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\obj\Debug\net8.0\refint\StudentGradesCalculator.dll
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\obj\Debug\net8.0\StudentGradesCalculator.pdb
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\obj\Debug\net8.0\StudentGradesCalculator.genruntimeconfig.cache
+C:\Users\SANDEEP_PC\source\repos\StudentGradesCalculator\StudentGradesCalculator\obj\Debug\net8.0\ref\StudentGradesCalculator.dll

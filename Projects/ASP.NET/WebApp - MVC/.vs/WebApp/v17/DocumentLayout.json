@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|c:\\users\\sandeep_pc\\source\\repos\\webapp\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|c:\\users\\sandeep_pc\\source\\repos\\webapp\\webapp\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|c:\\users\\sandeep_pc\\source\\repos\\webapp\\webapp\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|c:\\users\\sandeep_pc\\source\\repos\\webapp\\webapp\\models\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|c:\\users\\sandeep_pc\\source\\repos\\webapp\\webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|c:\\users\\sandeep_pc\\source\\repos\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B94CA705-1883-4A69-B9A8-4CBF1365AC23}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:29:31.496Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateEditExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Home\\CreateEditExpense.cshtml",
+              "ToolTip": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Home\\CreateEditExpense.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T05:05:06.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Expenses.cs",
+              "DocumentMoniker": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Models\\Expenses.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Expenses.cs",
+              "ToolTip": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Models\\Expenses.cs",
+              "RelativeToolTip": "WebApp\\Models\\Expenses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:13:32.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Views\\Home\\Expenses.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Home\\Expenses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T04:22:12.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T04:04:48.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SANDEEP_PC\\source\\repos\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxwAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T04:49:14.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDEEP_PC\\source\\repos\\StudentGradesCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA4B9E-E1BC-4C6C-BB25-9C2F304714B9}|StdTest.nUnitTests\\StdTest.nUnitTests.csproj|c:\\users\\sandeep_pc\\source\\repos\\studentgradescalculator\\stdtest.nunittests\\gradecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFA4B9E-E1BC-4C6C-BB25-9C2F304714B9}|StdTest.nUnitTests\\StdTest.nUnitTests.csproj|solutionrelative:stdtest.nunittests\\gradecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572BF75-0C74-4B44-BC29-27C0C255760E}|StudentGradesCalculator\\StudentGradesCalculator.csproj|c:\\users\\sandeep_pc\\source\\repos\\studentgradescalculator\\studentgradescalculator\\std.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572BF75-0C74-4B44-BC29-27C0C255760E}|StudentGradesCalculator\\StudentGradesCalculator.csproj|solutionrelative:studentgradescalculator\\std.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572BF75-0C74-4B44-BC29-27C0C255760E}|StudentGradesCalculator\\StudentGradesCalculator.csproj|c:\\users\\sandeep_pc\\source\\repos\\studentgradescalculator\\studentgradescalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572BF75-0C74-4B44-BC29-27C0C255760E}|StudentGradesCalculator\\StudentGradesCalculator.csproj|solutionrelative:studentgradescalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572BF75-0C74-4B44-BC29-27C0C255760E}|StudentGradesCalculator\\StudentGradesCalculator.csproj|c:\\users\\sandeep_pc\\source\\repos\\studentgradescalculator\\studentgradescalculator\\studentgradescalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E572BF75-0C74-4B44-BC29-27C0C255760E}|StudentGradesCalculator\\StudentGradesCalculator.csproj|solutionrelative:studentgradescalculator\\studentgradescalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Std.cs",
+              "DocumentMoniker": "C:\\Users\\SANDEEP_PC\\source\\repos\\StudentGradesCalculator\\StudentGradesCalculator\\Std.cs",
+              "RelativeDocumentMoniker": "StudentGradesCalculator\\Std.cs",
+              "ToolTip": "C:\\Users\\SANDEEP_PC\\source\\repos\\StudentGradesCalculator\\StudentGradesCalculator\\Std.cs",
+              "RelativeToolTip": "StudentGradesCalculator\\Std.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:19:44.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentGradesCalculator.csproj",
+              "DocumentMoniker": "C:\\Users\\SANDEEP_PC\\source\\repos\\StudentGradesCalculator\\StudentGradesCalculator\\StudentGradesCalculator.csproj",
+              "RelativeDocumentMoniker": "StudentGradesCalculator\\StudentGradesCalculator.csproj",
+              "ToolTip": "C:\\Users\\SANDEEP_PC\\source\\repos\\StudentGradesCalculator\\StudentGradesCalculator\\StudentGradesCalculator.csproj",
+              "RelativeToolTip": "StudentGradesCalculator\\StudentGradesCalculator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T06:52:58.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeCal.cs",
+              "DocumentMoniker": "C:\\Users\\SANDEEP_PC\\source\\repos\\StudentGradesCalculator\\StdTest.nUnitTests\\GradeCal.cs",
+              "RelativeDocumentMoniker": "StdTest.nUnitTests\\GradeCal.cs",
+              "ToolTip": "C:\\Users\\SANDEEP_PC\\source\\repos\\StudentGradesCalculator\\StdTest.nUnitTests\\GradeCal.cs",
+              "RelativeToolTip": "StdTest.nUnitTests\\GradeCal.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAqwD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:37:52.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SANDEEP_PC\\source\\repos\\StudentGradesCalculator\\StudentGradesCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGradesCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\SANDEEP_PC\\source\\repos\\StudentGradesCalculator\\StudentGradesCalculator\\Program.cs",
+              "RelativeToolTip": "StudentGradesCalculator\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:25:18.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Expenses";
+}
+@model List<Expense>
+
+<div class="text-center">
+    <h1 class="display-4">Expenses  Table</h1>
+    <br />
+    <hr />
+    <h2> Total Expenses are @ViewBag.Expenses /-Rs</h2>
+    <br />
+
+    <!--<p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>-->
+</div>
+
+
+
+<div>
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Value</th>
+                <th>Description</th>
+                <th>Action </th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var expense in Model)
+                {
+                    <tr>
+                        <td>@expense.Id</td>
+                        <td>@expense.value</td>
+                        <td>@expense.Description</td>
+                        <td>
+                            <a asp-action="CreateEditExpense" asp-route-id="@expense.Id">Edit</a>
+                            <a asp-action="DeleteExpense" asp-route-id="@expense.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

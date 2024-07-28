@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using StudentGradesCalculator;
+var a = new Std();
+Console.WriteLine("Enter The Percentage");
+var percentage = Convert.ToInt32(Console.ReadLine());
+var grade= a.GetGradesByPercentage(percentage);
+Console.WriteLine(grade);
